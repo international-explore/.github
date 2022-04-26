@@ -1,14 +1,17 @@
 ### 大家好  👋👋👋
 
-- 🧑‍🤝‍🧑 我们是一群来自中国的开发者。 
-- 🌐  旨在打造一套专业、好用、易用的出海通用解决方案，让出海更加简单、便捷、合规。
+- 🥳 我们是一群来自中国的开发者 👨‍💻‍
+- 🎯 旨在收集出海过程中一些有趣的领域知识 📖
+- 🔧 并通过技术解决出海过程中的一些通用问题
+- 包括：🌐 全球化（i18n），📝 本地化（l10n）, 🏛 合规（privacy）等
 
 
-### Hi there 👋👋👋
-- 🧑‍🤝‍🧑 We are a group of developers from China. 
-- 🌐  Aims to explore a general solution for the internationl，make global easier,faster and compliance
+### Hi there  👋👋👋
 
-
+- 🥳 We are a group of developers👨‍💻‍ from China
+- 🎯 Aim to collect some interesting knowledge 📖
+- 🔧 And use technology to solve common problems in the process of globalization
+- Include：🌐 i18n，📝 l10n, 🏛 privacy complaince...
 
 <!--
 
