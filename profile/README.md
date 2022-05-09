@@ -4,6 +4,7 @@
 - 🎯 旨在收集出海过程中一些有趣的领域知识 📖
 - 🔧 并通过技术解决出海过程中的一些通用问题
 - 包括：🌐 全球化（i18n），📝 本地化（l10n）, 🏛 合规（privacy）等
+- 域名：internationalexplore.fun
 
 
 ### Hi there  👋👋👋
@@ -12,7 +13,7 @@
 - 🎯 Aim to collect some interesting knowledge 📖
 - 🔧 And use technology to solve common problems in the process of globalization
 - Include：🌐 i18n，📝 l10n, 🏛 privacy complaince...
-
+- domain: internationalexplore.fun
 <!--
 
 Here are some ideas to get you started:
